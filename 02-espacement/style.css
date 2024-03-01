@@ -1,0 +1,15 @@
+div{width: 250px;
+    height: 350px;
+    background-color:rgb(223, 133, 148);
+    height:200px;
+    padding: 20px
+    /* padding= espacement interne */;
+    margin: 100px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    /* les 2 valeurs repstent valeur 1er (haut bas), et 2e (du gauche droite)*/
+    margin: 10px 20px 30px 50px;
+    /* les 4 valeurs représentent les directions Haut Droite BAs gauche */
+
+    
+}

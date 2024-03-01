@@ -1,0 +1,34 @@
+main div{
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    background-color: cornflowerblue;
+    background-image: linear-gradient(white, rgba(255,255,255,0));
+    transition: .5s;
+
+}
+
+main div:hover{
+    background-color: chartreuse;
+
+
+}
+
+button{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: darkgoldenrod;
+    background-image: linear-gradient(white,rgba(255,255,255,0));
+    transition: .5s;
+}
+
+button:hover{
+
+    background-color: crimson;
+    color: fuchsia ;
+    background-image: linear-gradient(360deg, white,rgba(255,255,255,0)) ;
+
+
+
+}
